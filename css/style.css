@@ -1,0 +1,45 @@
+body{
+  background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwall.alphacoders.com%2Fbig.php%3Fi%3D1003220%26lang%3DRussian&psig=AOvVaw2uH9ymHi-4yXZeIGABVYc0&ust=1622115611149000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDQr9ih5_ACFQAAAAAdAAAAABAD);
+}
+li{
+  display: inline-block;
+  padding: 20px 10px;
+}
+a{
+  background-color: #01FF52;
+  border: 1px solid #25F8F6;
+  border-radius: 5px;
+  font-size: 25px;
+  padding: 5px;
+  text-decoration: none;
+  color: white;
+}
+p{
+  background-color: #17E8FA;
+}
+h2{
+  background-color: #2BC7FA;
+}
+  a:hover{
+    background-color: #25F8F6;
+    border: 1px solid #25F8F6;
+    border-radius: 5px;
+    font-size: 30px;
+    padding: 5px;
+    text-decoration: none;
+    color: gold;
+  }
+  p:hover{
+    background-color: #2BC7FA;
+    font-size: 35px
+  }
+  .posts{
+    background-color: #25F8F6;
+    border: 1px solid #17E8FA;
+    border-radius: 5px;
+    font-size: 35px;
+    padding: 15px 30px;
+    text-decoration: none;
+    color: black;
+    margin: 10px 10px;
+  }
